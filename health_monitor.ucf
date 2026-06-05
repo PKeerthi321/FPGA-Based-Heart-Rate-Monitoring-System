@@ -1,0 +1,11 @@
+NET "clk" LOC = "L15";
+NET "reset" LOC = "N4";
+
+NET "pulse_in" LOC = "N12";
+
+NET "alert" LOC = "U18";
+
+NET "bpm[0]" LOC = "M14";
+NET "bpm[1]" LOC = "N14";
+NET "bpm[2]" LOC = "L14";
+NET "bpm[3]" LOC = "M13";
